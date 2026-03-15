@@ -4,7 +4,7 @@ Homework #1 – TurtleSim Digit Drawing
 Course  : Capstone Design [202601-ICE/CSE4020]
 Student : U2210139
 Digits  : 0  1  3  9   (last four digits of student ID)
-GitHub link: 
+GitHub link: https://github.com/abduxakim/Capstone_HW1git
 """
 
 import rospy
